@@ -1,4 +1,4 @@
-variable "aws-region" {
+variable "aws_region" {
   default     = "us-east-2"
   description = "Default AWS region"
 }
